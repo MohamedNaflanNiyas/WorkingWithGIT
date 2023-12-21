@@ -101,7 +101,7 @@
           <InArgument x:TypeArguments="x:String">Matara</InArgument>
           <InArgument x:TypeArguments="x:String">Trinco</InArgument>
           <InArgument x:TypeArguments="x:String">Hambanthota</InArgument>
-          <InArgument x:TypeArguments="x:String">Galle</InArgument>
+          <InArgument x:TypeArguments="x:String">Kaluthara</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
@@ -110,7 +110,8 @@
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
           <InArgument x:TypeArguments="x:String">Chennai</InArgument>
           <InArgument x:TypeArguments="x:String">Kolkata</InArgument>
-          <InArgument x:TypeArguments="x:String">Mumbaiu</InArgument>
+          <InArgument x:TypeArguments="x:String">Mumbai</InArgument>
+          <InArgument x:TypeArguments="x:String">New Dhelhi</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
